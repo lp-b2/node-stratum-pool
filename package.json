@@ -12,9 +12,9 @@
         "litecoin",
         "scrypt"
     ],
-    "homepage": "https://github.com/pool-b/node-stratum-pool",
+    "homepage": "https://github.com/leafpool-b/node-stratum-pool",
     "bugs": {
-        "url": "https://github.com/pool-b/node-stratum-pool/issues"
+        "url": "https://github.com/leafpool-b/node-stratum-pool/issues"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
@@ -28,7 +28,7 @@
         "url": "https://github.com/leafpool-b/node-stratum-pool.git"
     },
     "dependencies": {
-        "equihashverify": "git+https://github.com/pool-b/equihashverify.git",
+        "equihashverify": "git+https://github.com/leafpool-b/equihashverify.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
