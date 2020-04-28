@@ -29,7 +29,7 @@
     },
     "dependencies": {
         "equihashverify": "git+https://github.com/lp-b2/equihashverify.git",
-        "equihashverifyx": "git+https://github.com/mmitech/equihashverify.git"
+        "equihashverifyx": "git+https://github.com/mmitech/equihashverify.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
