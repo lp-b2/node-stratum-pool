@@ -28,7 +28,6 @@
         "url": "https://github.com/leafpool-b/node-stratum-pool.git"
     },
     "dependencies": {
-        "equihashverify": "git+https://github.com/lp-b2/equihashverify.git",
         "beamhashverify": "https://github.com/Lolliedieb/beamhashverify.git",
         "bignum": "*",
         "base58-native": "*",
